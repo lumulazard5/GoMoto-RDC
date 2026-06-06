@@ -1,0 +1,11 @@
+{
+  "name": "Remix: GoMoto RDC",
+  "description": "Application mobile de taxi-moto en République Démocratique du Congo (26 provinces) avec géolocalisation, wallet, gestion de flotte pour propriétaires, vérification d\u0027identité et panel d\u0027administration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
